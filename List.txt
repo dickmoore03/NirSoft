@@ -1,0 +1,298 @@
+Access PassView		Access 密码查看器		1.12 		http://www.nirsoft.net/utils/accesspv.html
+ActiveXHelper		ActiveX 组件查看器		1.12 		http://www.nirsoft.net/utils/axhelper.html
+AdapterWatch		网卡信息查看器			1.05 		http://www.nirsoft.net/utils/awatch.html
+AddrView		网页地址查看器			1.01 		http://www.nirsoft.net/utils/addrview.html
+AdvancedRun		高级运行管理器			1.51 		http://www.nirsoft.net/utils/advanced_run.html
+AllThreadsView	Windows 线程列表查看器			1.00 		http://www.nirsoft.net/utils/all_threads_view.html
+AlternateStreamView	备用数据流查看器		1.56 		http://www.nirsoft.net/utils/alternate_data_streams.html
+altstreamdump		备用数据流转储器		0.00 		http://www.nirsoft.net/utils/alternate_stream_dump.html
+AppAudioConfig		应用程序音频配置器		1.16 		http://www.nirsoft.net/utils/app_audio_config.html
+AppCompatibilityView	应用程序兼容性查看器		1.07 		http://www.nirsoft.net/utils/app_compatibility_view.html
+AppCrashView		程序崩溃信息查看器		1.35 		http://www.nirsoft.net/utils/app_crash_view.html
+AppNetworkCounter	应用程序网络信息监视器		1.48 		http://www.nirsoft.net/utils/app_network_counter.html
+AppReadWriteCounter	应用程序读取写入计数器		1.37 		http://www.nirsoft.net/utils/app_read_write_counter.html
+Asterisk Logger		密码信息获取器			1.04 		http://www.nirsoft.net/utils/astlog.html
+AsterWin IE		I E 密码恢复器			1.00 		http://www.nirsoft.net/utils/asterie.html
+AtNow			程序计划运行器			1.10 		http://www.nirsoft.net/utils/atnow.html
+BatteryInfoView		电池信息查看器			1.25 		http://www.nirsoft.net/utils/battery_information_view.html
+BlueScreenView		蓝屏信息查看器			1.55 		http://www.nirsoft.net/utils/blue_screen_view.html
+BluetoothCL		蓝牙设备转储器			1.07 		http://www.nirsoft.net/utils/bluetoothcl.html
+BluetoothLogView	蓝牙记录查看器			1.12 		http://www.nirsoft.net/utils/bluetooth_log_view.html
+BluetoothView		蓝牙设备查看器			1.66 		http://www.nirsoft.net/utils/bluetooth_viewer.html
+BootPerformanceView	开机进程性能查看器		1.00 	
+BrowserAddonsView	网页浏览器插件查看器		1.28 		http://www.nirsoft.net/utils/web_browser_addons_view.html
+BrowserDownloadsView	网页下载查看器			1.41 		https://www.nirsoft.net/utils/web_browser_downloads_view.html
+BrowsingHistoryView	浏览器历史记录查看器		2.51 		http://www.nirsoft.net/utils/browsing_history_view.html
+BulkFileChanger		文件日期属性更改器		1.72 		http://www.nirsoft.net/utils/bulk_file_changer.html
+BulletsPassView		网页密码查看器			1.32 		http://www.nirsoft.net/utils/bullets_password_view.html
+ChromeCacheView		Chrome缓存查看器		2.31 		http://www.nirsoft.net/utils/chrome_cache_view.html
+ChromeCookiesView	ChromeCookies查看器		1.70 		http://www.nirsoft.net/utils/chrome_cookies_view.html
+ChromeHistoryView	Chrome历史查看器		1.50 		http://www.nirsoft.net/utils/chrome_history_view.html
+ChromePass		Chrome密码查看器		1.56 		http://www.nirsoft.net/utils/chromepass.html
+CleanAfterMe		操作记录清除器			1.37 		https://www.nirsoft.net/utils/clean_after_me.html
+Clipboardic		小巧剪切板管理器		1.15 		http://www.nirsoft.net/utils/clipboardic.html
+ContentAdvisorPasswordRemover	内容审查移除器		1.01 		http://www.nirsoft.net/utils/conadvpass.html
+ControlMyMonitor	显示器设置修改器		1.35 		http://www.nirsoft.net/utils/installed_packages_view.html
+CountryTraceRoute	路由跟踪查看器			1.32 		http://www.nirsoft.net/utils/country_traceroute.html
+CredentialsFileView	Windows 证书文件查看器		1.11 		http://www.nirsoft.net/utils/credentials_file_view.html
+CredHistView		CredHist文件查看器		0.90 	
+CSVFileView		C S V 文件查看器		2.56 		http://www.nirsoft.net/utils/csv_file_view.html
+CurrPorts		已连接端口查看器		2.65 		http://www.nirsoft.net/utils/cports.html
+CurrProcess		[已运行进程查看器]		1.13 		http://www.nirsoft.net/utils/cprocess.html
+CustomExplorerToolbar	资源管理器定制器		1.05 		http://www.nirsoft.net/utils/custom_explorer_toolbar.html
+CustomizeIE		[I E 工具栏定制器]		1.01 		http://www.nirsoft.net/utils/ctie.html
+DataProtectionDecryptor	DPAPI 数据解密器		1.11 		http://www.nirsoft.net/utils/dpapi_data_decryptor.html
+DeviceIOView		设备读写查看器			1.06 		http://www.nirsoft.net/utils/device_io_view.html
+DevManView		设备信息查看器			1.76 		http://www.nirsoft.net/utils/device_manager_view.html
+Dialupass		拨号密码恢复器			3.61 		http://www.nirsoft.net/utils/dialupass.html
+DiskCountersView	磁盘读写计数器			1.27 		http://www.nirsoft.net/utils/disk_counters_view.html
+DiskSmartView		磁盘状态查看器			1.21 		http://www.nirsoft.net/utils/disk_smart_view.html
+DLL Export Viewer	D L L 导出表查看器		1.66 		http://www.nirsoft.net/utils/dll_export_viewer.html
+DNSDataView		D N S 数据查看器		1.61 		http://www.nirsoft.net/utils/dns_records_viewer.html
+DNSLookupView		D N S 跟踪查看器		1.05 		http://www.nirsoft.net/utils/dns_lookup_view.html
+DNSQuerySniffer		D N S 查询嗅探器		1.85 		http://www.nirsoft.net/utils/dns_query_sniffer.html
+DocumentTextExtractor	文档文本提取器			0.90 	
+DomainHostingView	域名主机查看器			1.82 		http://www.nirsoft.net/utils/domain_hosting_view.html
+DotNetResourcesExtract	[N E T 资源查看器]		1.01 		http://www.nirsoft.net/utils/dot_net_resources_extract.html
+DownTester		下载速度测试器			1.30 		http://www.nirsoft.net/utils/download_speed_tester.html
+DriveLetterView		设备盘符查看器			1.50 		http://www.nirsoft.net/utils/drive_letter_view.html
+DriverView		设备驱动查看器			1.50 		http://www.nirsoft.net/utils/driverview.html
+DumpEDID		显示器信息转储器		1.07 		http://www.nirsoft.net/utils/dump_edid.html
+EdgeCookiesView		Edge浏览器Cookies查看器		1.17 		http://www.nirsoft.net/utils/edge_cookies_view.html
+EncryptedRegView	DPAPI 加密数据查看器		1.05 		http://www.nirsoft.net/utils/encrypted_registry_view.html
+EnterpriseManagerPassView	SQL Server密码查看器	1.00		http://www.nirsoft.net/utils/empv.html
+ESEDatabaseView		E S E 数据库查看器		1.68 		http://www.nirsoft.net/utils/ese_database_view.html
+EventLogChannelsView	事件日志管道查看器		1.36 		http://www.nirsoft.net/utils/event_log_channels_view.html
+EventLogProvidersView	事件日志程序查看器		1.00 	
+EventLogSourcesView	事件日志源查看器		1.00 		http://www.nirsoft.net/utils/event_log_sources_view.html
+ExecutedProgramsList	运行过的程序查看器		1.11 		http://www.nirsoft.net/utils/executed_programs_list.html
+ExeInfo			可执行文件信息查看器		1.01 		http://www.nirsoft.net/utils/exeinfo.html
+ExifDataView		相片 Exif 信息查看器		1.11 		http://www.nirsoft.net/utils/exif_data_view.html
+ExtPassword!		Windows 密码提取器		1.00 		https://www.nirsoft.net/utils/external_drive_password_recovery.html
+FastResolver		I P /主机名解析器		1.26 		http://www.nirsoft.net/utils/fastresolver.html
+FavoritesView		网页收藏夹查看器		1.32 		http://www.nirsoft.net/utils/faview.html
+FBCacheView		Facebook图像缓存查看器		1.22 		http://www.nirsoft.net/utils/facebook_cache_viewer.html
+FileAccessErrorView	文件访问错误信息查看器		1.30 		http://www.nirsoft.net/utils/file_access_error_view.html
+FileActivityWatch	文件操作信息监视器		1.66 		http://www.nirsoft.net/utils/file_activity_watch.html
+FileDate Changer	文件日期更改器			1.10 		http://www.nirsoft.net/utils/filedatech.html
+FileTypesMan		文件类型查看器			1.95 		http://www.nirsoft.net/utils/file_types_manager.html
+FirefoxDownloadsView	Firefox下载查看器		1.40 		http://www.nirsoft.net/utils/firefox_downloads_view.html
+FirmwareTablesView	固件表列表查看器		1.01 		http://www.nirsoft.net/utils/firmware_tables_view.html
+FlashCookiesView	FlashCookie查看器		1.15 		http://www.nirsoft.net/utils/flash_cookies_view.html
+FolderChangesView	文件夹更改查看器		2.32 		http://www.nirsoft.net/utils/folder_changes_view.html
+FoldersReport		文件夹信息查看器		1.21 		http://www.nirsoft.net/utils/folrep.html
+FolderTimeUpdate	目录修改时间查看器		1.65 		http://www.nirsoft.net/utils/folder_time_update.html
+FreeSpaceLogView	可用硬盘空间查看器		1.05 		https://www.nirsoft.net/utils/free_disk_space_log_view.html
+FullEventLogView	全部事件日志查看器		1.68 		http://www.nirsoft.net/utils/full_event_log_view.html
+GACView			N E T 组件查看器		1.11 		http://www.nirsoft.net/dot_net_tools/gac_viewer.html
+GDIView			数据库接口查看器		1.26 		http://www.nirsoft.net/utils/gdi_handles.html
+GetNir							1.01 		http://www.nirsoft.net/utils/get_nir_command_line_tool.html
+GoogRank		[Google 排名查看器]		1.01 		http://www.nirsoft.net/utils/grank.html
+GoogRankCmd		Google排名转储器		1.01 		http://www.nirsoft.net/utils/grankcmd.html
+GUIPropView		已打开窗口信息查看器		1.21 		http://www.nirsoft.net/utils/gui_prop_view.html
+HandleCountersView	进程句柄数查看器		1.15 		http://www.nirsoft.net/utils/handle_counters_view.html
+HashMyFiles		文件哈希值查看器		2.43 		http://www.nirsoft.net/utils/hash_my_files.html
+HeapMemView		进程堆内存块查看器		1.05 		http://www.nirsoft.net/utils/heap_memory_view.html
+HostedNetworkStarter	WIFI 热点创建器 		1.15 		http://www.nirsoft.net/utils/wifi_hotspot_starter.html
+HotKeysList		显示系统热键列表		1.05 		http://www.nirsoft.net/utils/hot_keys_list.html
+HTMLAsText		[Html2Text转换器]		1.11 		http://www.nirsoft.net/utils/htmlastext.html
+HtmlDocEdit		HTML 文档编辑器			1.02 		http://www.nirsoft.net/utils/html_doc_edit.html
+HTTPNetworkSniffer		http 网络嗅探器		1.63 		http://www.nirsoft.net/utils/http_network_sniffer.html
+IconsExtract		I C O 图标提取器		1.47 		http://www.nirsoft.net/utils/iconsext.html
+IdenSwitch		O E 帐号切换器			1.01 		http://www.nirsoft.net/utils/idenswitch.html
+IE Pass View		I E 密码查看器			1.42 		http://www.nirsoft.net/utils/internet_explorer_password.html
+IECacheView		I E 缓存查看器			1.58 		http://www.nirsoft.net/utils/ie_cache_viewer.html
+IECompo			I E 组件查看器			1.00 		http://www.nirsoft.net/utils/iecompo.html
+IECookiesView		I E Cookies查看器		1.79 		http://www.nirsoft.net/utils/iecookies.html
+IEDesignMode		I E 设计模式添加器		1.00 		http://www.nirsoft.net/utils/ie_design_mode.html
+IEHistoryView		I E 历史查看器			1.70 		http://www.nirsoft.net/utils/iehv.html
+ImageCacheViewer	图像缓存查看器			1.27 		http://www.nirsoft.net/utils/image_cache_viewer.html
+InjectedDLL		D L L 注入查看器		1.00 		http://www.nirsoft.net/utils/injected_dll.html
+InsideClipboard		简易剪切板管理器		1.20 		http://www.nirsoft.net/utils/inside_clipboard.html
+InstalledAppView	查看已安装的Win10应用		1.01 		https://www.nirsoft.net/utils/installed_app_view.html
+InstalledCodec		编解码驱动查看器		1.30 		http://www.nirsoft.net/utils/installed_codec.html
+InstalledDriversList	驱动程序查看器			1.05 		http://www.nirsoft.net/utils/installed_drivers_list.html
+InstalledPackagesView	MSI 安装包查看器		1.05 		http://www.nirsoft.net/utils/installed_packages_view.html
+IPInfoOffline		I P 信息脱机查询器		1.60 		https://www.nirsoft.net/utils/ip_country_info_offline.html
+IPNeighborsView		I P Neighbors查看器		1.01 		https://www.nirsoft.net/utils/ip_neighbor_table_view.html
+IPNetInfo		I P 信息网络查询器		1.90 		https://www.nirsoft.net/utils/ipnetinfo.html
+JavaScript Animator Express	JavaScript动画制作器	1.10 		http://nirsoft.net/utils/jsae.html
+JRView			Java运行环境查看器		1.00 		http://www.nirsoft.net/utils/jrview.html
+JumpListsView		跳转列表查看器			1.16 		http://www.nirsoft.net/utils/jump_lists_view.html
+KeyboardStateView	键盘按键状态查看器		1.00 		http://www.nirsoft.net/utils/keyboard_state_view.html
+LastActivityView	最近活动事件查看器		1.35 		http://www.nirsoft.net/utils/computer_activity_view.html
+LiveContactsView	Live 联系人查看器		1.26 		http://www.nirsoft.net/utils/live_messenger_contacts.html
+LiveTcpUdpWatch		TCP和UDP活动信息查看器		1.41 		http://www.nirsoft.net/utils/live_tcp_udp_watch.html
+LoadedDllsView		DLL 文件查看器			1.05 		http://www.nirsoft.net/utils/loaded_dll_view.html
+LostMyPassword		丢失密码恢复器			0.90 	
+LSASecretsDump		L S A 密文转储器		1.21 		http://www.nirsoft.net/utils/lsa_secrets_dump.html
+LSASecretsView		L S A 密文查看器		1.25 		http://www.nirsoft.net/utils/lsa_secrets_view.html
+MACAddressView		M A C 地址查看器		1.45 		http://www.nirsoft.net/utils/mac_address_lookup_find.html
+MadPassExt		DPAPI 密码提取器		1.00 		http://www.nirsoft.net/utils/microsoft_account_dpapi_password.html
+Mail PassView		邮件密码查看器			1.92 		http://www.nirsoft.net/utils/mailpv.html
+ManageWirelessNetworks	无线网络管理器			1.06 		http://www.nirsoft.net/utils/manage_wireless_networks.html
+MessenPass		Messen 密码恢复器		1.43 		http://www.nirsoft.net/utils/mspass.html
+MetarWeather		[METAR天气报告查看器]		1.76 		http://www.nirsoft.net/utils/mweather.html
+MIMEView		MIME 类型查看器			1.10 		http://www.nirsoft.net/utils/mimeview.html
+MMCompView		多媒体组件查看器		1.10 		http://www.nirsoft.net/utils/mmview.html
+MMCSnapInsView		MMC管理单元查看器		1.00 		http://www.nirsoft.net/utils/mmc_snapins_view.html
+MobileDeviceFileSearch	移动设备文件搜索		1.42 		https://www.nirsoft.net/utils/mobile_device_file_search.html
+MonitorInfoView		显示器信息查看器		1.22 		http://www.nirsoft.net/utils/monitor_info_view.html
+MUICacheView		M U I 缓存查看器		1.01 		http://www.nirsoft.net/utils/muicache_view.html
+MultiMonitorTool	桌面显示器扩展器		1.96 		http://www.nirsoft.net/utils/multi_monitor_tool.html
+MyEventViewer		系统事件查看器			2.25 		http://www.nirsoft.net/utils/my_event_viewer.html
+MyLastSearch		搜索记录查看器			1.65 		http://www.nirsoft.net/utils/my_last_search.html
+MyPopupKiller		弹出窗口终结者			1.26 		http://www.nirsoft.net/utils/mpk.html
+MyUninstaller		程序卸载管理器			1.77 		http://www.nirsoft.net/utils/myuninst.html
+MZCacheView		Mozilla缓存查看器		2.20 		http://www.nirsoft.net/utils/mozilla_cache_viewer.html
+MZCookiesView		MozillaCookies查看器		1.58 		http://www.nirsoft.net/utils/mzcv.html
+MZHistoryView		Mozilla历史查看器		1.70 		http://www.nirsoft.net/utils/mozilla_history_view.html
+NetBScanner		NetBIOS协议扫描器		1.11 		http://www.nirsoft.net/utils/netbios_scanner.html
+NetConnectChoose	Internet连接信息器		1.07 		http://www.nirsoft.net/utils/net_connect_choose.html
+NetResView		网络资源查看器			1.27 		http://www.nirsoft.net/utils/netresview.html
+NetRouteView		本地路由器查看器		1.35 		http://www.nirsoft.net/utils/network_route_view.html
+Netscapass		Netscape密码查看器		2.03 		http://www.nirsoft.net/utils/netscapass.html
+NetworkPasswordRecovery	网络密码恢复器			1.56 		http://www.nirsoft.net/utils/network_password_recovery.html
+NetworkConnectLog	网络连接/断开事件		1.13 		http://www.nirsoft.net/utils/network_connect_log.html
+NetworkCountersWatch	网络连接计数器			1.02 		http://www.nirsoft.net/utils/network_counters_watch.html
+NetworkInterfacesView	网卡接口查看器			1.21 		http://www.nirsoft.net/utils/network_interfaces.html
+NetworkLatencyView	网络连接延迟查看器		1.66 		http://www.nirsoft.net/utils/network_latency_view.html
+NetworkOpenedFiles	网络打开文件查看器		1.51 		http://www.nirsoft.net/utils/network_opened_files.html
+NetworkTrafficView	网络流量查看器			2.41 		http://www.nirsoft.net/utils/network_traffic_view.html
+NetworkUsageView	网络使用查看器			1.26 		http://www.nirsoft.net/utils/network_usage_view.html
+NirCmd			小巧命令提示符			2.86 		http://www.nirsoft.net/utils/nircmd.html
+NirExt			鼠标右键扩展器			1.01 		http://www.nirsoft.net/utils/nirext.html
+NK2Edit			N K 2 文件编辑器		3.44 		http://www.nirsoft.net/utils/outlook_nk2_edit.html
+NK2View			N K 2 文件查看器		1.43 		http://www.nirsoft.net/utils/outlook_nk2_autocomplete.html
+NTFSLinksView		NTFS 链接查看器			1.31 		http://www.nirsoft.net/utils/ntfs_links_view.html
+OfficeIns		Office插件查看器		1.20 		http://www.nirsoft.net/utils/officeins.html
+OfflineRegistryFinder	外部注册表数据查找器		1.10 		http://www.nirsoft.net/utils/offline_registry_finder.html
+OfflineRegistryView	外部注册表数据查看		1.03 		http://www.nirsoft.net/utils/offline_registry_view.html
+OpenedFilesView		已打开文件查看器		1.86 		http://www.nirsoft.net/utils/opened_files_view.html
+OpenSaveFilesView	打开/保存窗口查看器		1.15 		http://www.nirsoft.net/utils/open_save_files_view.html
+OpenWithView		打开方式查看器			1.11 		http://www.nirsoft.net/utils/open_with_view.html
+OperaCacheView		Opera 缓存查看器		1.40 		http://www.nirsoft.net/utils/opera_cache_view.html
+OutlookAccountsView	Outlook帐户查看器		1.01 		https://www.nirsoft.net/utils/outlook_accounts_view.html
+OutlookAddressBookView	Outlook 地址簿查看器		2.36 		http://www.nirsoft.net/utils/outlook_address_book_view.html
+OutlookAttachView	Outlook 附件查看器		3.44 		http://www.nirsoft.net/utils/outlook_attachment.html
+OutlookStatView	Outlook 统计查看器			2.26 		http://www.nirsoft.net/utils/outlook_statistics.html
+Password Security Scanner	密码安全性扫描器	1.61 		http://www.nirsoft.net/utils/password_security_scanner.html
+PasswordFox		Firefox 密码查看器		1.70 		http://www.nirsoft.net/utils/passwordfox.html
+PasswordHashesView	密码Hash值查看器		0.90 	
+pcANYWHERE Hosts Scanner	PCAW主机扫描器		1.00 		http://www.nirsoft.net/utils/pcanyscan.html
+PingInfoView		Ping 信息查看器			2.25 		http://www.nirsoft.net/utils/multiple_ping_tool.html
+PreviousFilesRecovery	恢复Windows卷影副本		1.10 		http://www.nirsoft.net/utils/previous_files_recovery.html
+ProcessActivityView	活动进程查看器			1.16 		http://www.nirsoft.net/utils/process_activity_view.html
+ProcessTCPSummary	TCP/UDP连接信息摘要		1.16 		http://www.nirsoft.net/utils/process_tcp_summary.html
+ProcessThreadsView	进程线程查看器			1.29 		http://www.nirsoft.net/utils/process_threads_view.html
+Product Key Scanner	产品密钥扫描器			1.00 		http://www.nirsoft.net/utils/product_key_scanner.html
+PropertySystemView	系统文件属性查看器		1.18 		https://www.nirsoft.net/utils/windows_property_system_view.html
+Protected Storage PassView	保护的存储密码查看器	1.63 		http://www.nirsoft.net/utils/pspv.html
+PstPassword		P S T 密码查看器		1.20 		http://www.nirsoft.net/utils/pst_password.html
+QuickSetDNS		更改 DNS 服务器			1.31 		http://www.nirsoft.net/utils/quick_set_dns.html
+RecentFilesView		最近文档查看器			1.33 		http://www.nirsoft.net/utils/recent_files_view.html
+RegDllView		已注册 DLL 查看器		1.60 		http://www.nirsoft.net/utils/registered_dll_view.html
+RegFileExport		注册表文件导出器		1.10 		http://www.nirsoft.net/utils/registry_file_offline_export.html
+RegFromApp		程序注册表监视器		1.33 		http://www.nirsoft.net/utils/reg_file_from_application.html
+RegHiveBackup		注册表备份工具			0.90 	
+RegistryChangesView	注册表快照比较器		1.28 		http://www.nirsoft.net/utils/registry_changes_view.html
+RegScanner		注册表扫描器			2.65 		http://www.nirsoft.net/utils/regscanner.html
+Remote Desktop PassView	远程桌面密码查看器		1.02 		http://www.nirsoft.net/utils/remote_desktop_password.html
+RemotePocketAsterisk	远程 PPC 密码查看器		1.00 		http://www.nirsoft.net/pocket_pc/remote_pocket_asterisk.html
+ResourcesExtract	资源文件提取器			1.18 		http://www.nirsoft.net/utils/resources_extract.html
+RouterPassView		路由器密码查看器		1.90 		http://www.nirsoft.net/utils/router_password_recovery.html
+RTMPDumpHelper		PTMP 视频转储器			1.22 		http://www.nirsoft.net/utils/rtmp_dump_helper.html
+RunAsDate		程序计划运行器			1.40 		http://www.nirsoft.net/utils/run_as_date.html
+RunFromProcess		程序进程附加器			1.07 		http://www.nirsoft.net/utils/run_from_process.html
+RuntimeClassesView	Windows运行类查看器		0.90 	
+RunWithoutElevation	RunWithoutElevation		1.00 	
+SafariCacheView		Safari缓存查看器		1.11 		http://www.nirsoft.net/utils/safari_cache_view.html
+SafariHistoryView	Safari历史查看器		1.01 		http://www.nirsoft.net/utils/safari_history_view.html
+SearchFilterView	搜索筛选器查看器		1.00 		http://www.nirsoft.net/utils/search_filter_view.html
+SearchMyFiles		小巧文件搜索器			3.17 		http://www.nirsoft.net/utils/search_my_files.html
+SecurityQuestionsView	系统安全问题查看器		1.00 		https://www.nirsoft.net/utils/security_questions_view.html
+SecuritySoftView	安全软件查看器			1.00 		http://www.nirsoft.net/utils/security_software_view.html
+SeqDownload		[下载进度控制器]		1.26 		http://www.nirsoft.net/utils/seqdownload.html
+ServiWin		服务驱动管理器			1.71 		http://www.nirsoft.net/utils/serviwin.html
+ShadowCopyView		卷影副本查看器			1.15 		http://www.nirsoft.net/utils/shadow_copy_view.html
+ShellBagsView		文件夹窗口信息查看器		1.30 		http://www.nirsoft.net/utils/shell_bags_view.html
+ShellExView		扩展菜单查看器			2.01 		http://www.nirsoft.net/utils/shexview.html
+ShellMenuNew		新建菜单管理器			1.02 		http://www.nirsoft.net/utils/shell_menu_new.html
+ShellMenuView		右键菜单查看器			1.41 		http://www.nirsoft.net/utils/shell_menu_view.html
+ShortcutsMan		快捷方式管理器			1.10 		http://www.nirsoft.net/utils/shman.html
+ShutdownPerformanceView	系统关机进程查看器		1.00 	
+SimpleCodeGenerator	简易二维码生成器		1.11 		http://www.nirsoft.net/utils/qr_code_generator.html
+SimpleProgramDebugger	显示调试程序事件		1.15 		http://www.nirsoft.net/utils/simple_program_debugger.html
+SimpleWMIView		简易 WMI 查看器			1.51 		http://www.nirsoft.net/utils/simple_wmi_view.html
+SiteShoter		网页快照抓取器			1.42 		http://www.nirsoft.net/utils/web_site_screenshot.html
+SkypeContactsView	Skype 联系人查看器		1.05 		http://www.nirsoft.net/utils/skype_contacts_view.html
+SkypeLogView		Skype 日志查看器		1.55 		http://www.nirsoft.net/utils/skype_log_view.html
+SmartSniff		网络数据包嗅探器		2.29 		http://www.nirsoft.net/utils/smsniff.html
+SniffPass		网卡密码嗅探器			1.13 		http://www.nirsoft.net/utils/password_sniffer.html
+SNRemove		N E T 密钥移除器		1.00 		http://www.nirsoft.net/dot_net_tools/strong_name_remove.html
+SocketSniff		系统Socket嗅探器		1.11 		http://www.nirsoft.net/utils/socket_sniffer.html
+SoundVolumeCommandLine	音量命令行工具			1.10 		https://www.nirsoft.net/utils/sound_volume_command_line.html
+SoundVolumeView		声音音量查看器			2.30 		http://www.nirsoft.net/utils/sound_volume_view.html
+SpecialFoldersView	特殊文件夹查看器		1.26 		http://www.nirsoft.net/utils/special_folders_view.html
+StartBlueScreen		蓝屏死机启动器			1.00 		http://www.nirsoft.net/utils/start_blue_screen.html
+SuperfetchView		超级抓取文件查看器		0.90 	
+SysExporter		窗口数据导出器			1.77 		http://www.nirsoft.net/utils/sysexp.html
+TableTextCompare	TableText比较器			1.20 		http://www.nirsoft.net/utils/csv_file_comparison.html
+TagsReport		网页标签报告器			1.00 		http://www.nirsoft.net/utils/tagsrep.html
+TaskSchedulerView	任务调度器查看器		1.70 		http://www.nirsoft.net/utils/task_scheduler_view.html
+TCPConnectProblemView	TCP连接监视器			1.03 		http://www.nirsoft.net/utils/tcp_connect_problem_view.html
+TcpLogView		T C P 事件查看器		1.35 		http://www.nirsoft.net/utils/tcp_log_view.html
+TimeZonesView		显示所有世界时区		1.06 		http://www.nirsoft.net/utils/time_zones_view.html
+TraceMenuID		菜单ID查看器			0.90 	
+TurnedOnTimesView	开关机时间查看器		1.46 		http://www.nirsoft.net/utils/computer_turned_on_times.html
+TurnFlash		网页Flash管理器			2.10 		http://www.nirsoft.net/utils/tflash	2.html
+UninstallView		已安装程序查看器		1.45 		http://www.nirsoft.net/utils/uninstall_view.html
+URLProtocolView		U R L 协议查看器		1.15 		http://www.nirsoft.net/utils/url_protocol_view.html
+URLStringGrabber	U R L 字串抓取器		1.11 		http://www.nirsoft.net/utils/url_string_grabber.html
+USBDeview		U S B 设备查看器		3.03 		http://www.nirsoft.net/utils/usb_devices_view.html
+USBDriveLog		USB驱动日志查看器		1.10 		https://www.nirsoft.net/utils/usb_drive_log.html
+USBLogView		U S B 记录查看器		1.26 		http://www.nirsoft.net/utils/usb_log_view.html
+UserAssistView		UserAssist查看器		1.02 		http://www.nirsoft.net/utils/userassist_view.html
+UserProfilesView	用户配置文件查看器		1.10 		http://www.nirsoft.net/utils/user_profiles_view.html
+VaultPasswordView	Windows库密码查看器		1.11 		http://www.nirsoft.net/utils/vault_password_view.html
+VideoCacheView		视频缓存查看器			3.09 		http://www.nirsoft.net/utils/video_cache_view.html
+VNCPassView		V N C 密码查看器		1.05 		http://www.nirsoft.net/utils/vnc_password.html
+Volumouse		鼠标音量控制器			2.03 		http://www.nirsoft.net/utils/volumouse.html
+WakeMeOnLan		局域网唤醒管理器		1.90 		http://www.nirsoft.net/utils/wake_on_lan.html
+WebBrowserBookmarksView	网页书签查看器			1.05 		http://www.nirsoft.net/utils/web_browser_bookmarks_view.html
+webbrowserpassview	网页密码查看器			2.11 		http://www.nirsoft.net/utils/web_browser_password.html
+WebCacheImageInfo	显示缓存图像信息		1.34 		http://www.nirsoft.net/utils/web_cache_image_info.html
+WebCamImageSave		摄像头图像捕获器		1.11 		http://www.nirsoft.net/utils/web_cam_image_capture.html
+WebCookiesSniffer	网页Cookies嗅探器		1.30 		http://www.nirsoft.net/utils/web_cookies_sniffer.html
+WebSiteSniffer		网站资源嗅探器			1.51 		http://www.nirsoft.net/utils/web_site_sniffer.html
+WebVideoCap		网页视频抓取器			1.41 		http://www.nirsoft.net/utils/web_video_capture.html
+WhatInStartup		启动项目查询器			1.35 		http://www.nirsoft.net/utils/what_run_in_startup.html
+WhatIsHang		程序挂起查询器			1.27 		http://www.nirsoft.net/utils/what_is_hang.html
+WhoisCL			I P 信息查询器			1.85 		http://www.nirsoft.net/utils/whoiscl.html
+WhoIsConnectedSniffer	网络连接嗅探器			1.28 		http://www.nirsoft.net/utils/who_is_connected_sniffer.html
+WhoisThisDomain		域名信息查询器			2.46 		http://www.nirsoft.net/utils/whois_this_domain.html
+WhosIP			I P 信息查询器			1.18 		http://www.nirsoft.net/utils/whosip.html
+WifiChannelMonitor	WIFI 信息监控器			1.70 		http://www.nirsoft.net/utils/wifi_channel_monitor.html
+WifiHistoryView		WIFI连接记录查看器		1.62 		https://www.nirsoft.net/utils/wifi_history_view.html
+WifiInfoView		WIFI 信息查看器			2.76 		http://www.nirsoft.net/utils/wifi_information_view.html
+WinCrashReport		系统崩溃报告器			1.25 		http://www.nirsoft.net/utils/application_crash_report.html
+WinDefLogView		WinDef日志查看器		1.00 		http://www.nirsoft.net/utils/windows_defender_log_viewer
+WinDefThreatsView	WinDefender威胁查看器		1.12 		https://www.nirsoft.net/utils/windows_defender_threats_view.html
+WindowsUpdatesHistoryViewer	Windows更新查看器	1.16 		http://www.nirsoft.net/utils/windows_updates_history_viewer.html
+WinExplorer		窗口信息查看器			1.30 		http://www.nirsoft.net/utils/winexp.html
+WinFontsView		系统字体查看器			1.10 		http://www.nirsoft.net/utils/windows_fonts_viewer.html
+WinLister		[进程窗口信息查看器]		1.22 		http://www.nirsoft.net/utils/winlister.html
+WinLogOnView		安全事件日志查看器		1.41 		http://www.nirsoft.net/utils/windows_log_on_times_view.html
+WinMailPassRec		WinMail密码恢复器		1.00 		https://www.nirsoft.net/utils/windows_mail_password_recovery.html
+WinMessControl		[WinMess 控制器]		1.00 		http://www.nirsoft.net/utils/wmc.html
+WinPrefetchView		预取文件查看器			1.37 		http://www.nirsoft.net/utils/win_prefetch_view.html
+WinsockServicesView	Sock 服务查看器			1.00 		http://www.nirsoft.net/utils/winsock_service_providers.html
+WinUpdatesList		系统补丁查看器			1.33 		http://www.nirsoft.net/utils/wul.html
+Wireless Key View	无线密钥查看器			2.22 		http://www.nirsoft.net/utils/wireless_key.html
+WirelessNetworkWatcher	无线网络监视器			2.30 		http://www.nirsoft.net/utils/wireless_network_watcher.html
+WirelessConnectionInfo	WIFI连接信息查看器		1.16 		http://www.nirsoft.net/utils/wireless_connection_information.html
+wirelesskeydump		无线密钥转储器			0.00 		http://www.nirsoft.net/utils/wireless_key_dump.html
+WirelessNetConsole	无线网络控制台			1.00 		http://www.nirsoft.net/utils/wireless_net_console.html
+WirelessNetView		无线网络查看器			1.75 		http://www.nirsoft.net/utils/wireless_network_view.html
+ZipInstaller		ZIP 安装包管理器		1.21 		http://www.nirsoft.net/utils/zipinst.html
+
