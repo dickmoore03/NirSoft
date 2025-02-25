@@ -3,7 +3,7 @@
 
 NirLauncher 本身也是免安装的，你可以把它放在U盘中携带使用。温馨提示：某些杀毒软件报告部分小程序可能有病毒，这是误报，将其添加到信任列表即可。
 
-NirLauncher 特点：
+# NirLauncher 特点：
 
 　　NirLauncher 可用于从USB闪存驱动器，而不需要任何安装。
 
