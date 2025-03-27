@@ -1,5 +1,5 @@
 
-　　NirLauncher 是一个便携软件工具箱，集合了来自NirSoft的所有精品实用工具，完全免费且便携，兼容x86/x64平台。NirLauncher 涵盖了密码恢复、网络监控、浏览器、音频视频、Internet、命令行、桌面、编程、Outlook/Office、磁盘、系统实用工具等共计290多个软件，个个短小精悍，部分软件带了简体中文语言包。
+　　NirLauncher 是一个便携软件工具箱，集合了来自NirSoft的所有精品实用工具，完全免费且便携，兼容x86/x64平台。NirLauncher 涵盖了密码恢复、网络监控、浏览器、音频视频、Internet、命令行、桌面、编程、Outlook/Office、磁盘、系统实用工具等共计300多个软件，个个短小精悍，部分软件带了简体中文语言包。
 
 NirLauncher 本身也是免安装的，你可以把它放在U盘中携带使用。温馨提示：某些杀毒软件报告部分小程序可能有病毒，这是误报，将其添加到信任列表即可。
 
@@ -12,5 +12,3 @@ NirLauncher 本身也是免安装的，你可以把它放在U盘中携带使用�
 　　在x64系统上当有一个单独的x64版本时，NirLauncher 会自动运行该实用工具的x64版本。NirLauncher 还允许添加额外的更多的软件包。
 
 
-
-　　下载地址：http://dickmoore.cn/nirlauncher.zip
